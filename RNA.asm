@@ -436,6 +436,7 @@ Pontos:
    loadn r0, #1109
    load r1, pontosBase
    div r1, r1, r4
+   mod r1, r1, r4
    add r1, r1, r3
    add r1, r1, r2
    outchar r1, r0
