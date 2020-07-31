@@ -1,0 +1,10 @@
+|010110|XXX|XXX|0001   | = BEQ ReX, ReY, label
+|OP=CMP|ReX|ReY|COND_EQ|  
+END -> endereço na linha seguinte da instrução
+
+
+|101111|XXX|XXX|0000| = ADDI ReX, ReY, #NUM
+|  OP  |ReX|ReY|Nada|
+NUM -> número na linha seguinte da instrução
+
+
