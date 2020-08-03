@@ -6,13 +6,13 @@ Jogo onde você brinca de ser RNA polimerase, feito usando o assembly do ICMC.
 
 ![](https://github.com/ansoncg/RNAssembly_LabOrgComp/blob/master/tela_jogo.jpg)
 
-## Executando:
+## Executando
 
-No montador:
+#### No montador:
 ```
 ./montador RNA.asm CPURAM.mif
 ```
-No simulador:
+#### No simulador:
 
 Com o CPURAM.mif gerado no mesmo diretório do simulador basta executar o Makefile
 ```
