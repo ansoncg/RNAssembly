@@ -18,9 +18,6 @@ Com o CPURAM.mif gerado no mesmo diretório do simulador basta executar o Makefi
 ```
 make run
 ```
-## Vídeo mostrando o jogo e modificações
-
-https://youtu.be/HxOOWBPjLv0
 
 ## Processador do ICMC
 
